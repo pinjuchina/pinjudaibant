@@ -743,6 +743,9 @@ blockquote {
   font-size: 16px;
   color: #000000;
 }
+#progress-bar7-i path[stroke] {
+  stroke: #f39c12 !important;
+}
 #features9-1 .mbr-section-title {
   font-size: 60px;
 }

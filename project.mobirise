@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -82,7 +82,7 @@
             "showText": false,
             "showButtons": false
           },
-          "title": "<span style=\"line-height: 1.12em;\">代办租房</span><br><font color=\"#000000\">服务多多又贴心</font><br>",
+          "title": "<span style=\"line-height: 1.12em;\">代办租房</span><br><font color=\"#000000\">服务省心 又贴心</font><br>",
           "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
@@ -104,7 +104,7 @@
             "bgColor": "#f1c40f",
             "showMeta": true
           },
-          "title": "品居服务季&nbsp;为您所想",
+          "title": "品居服务季为您所想",
           "meta": "2017年5、6<b>月份增值服务项目&nbsp;</b>"
         },
         {
@@ -125,7 +125,64 @@
             "paddingBottom": "0",
             "bgColor": "#f1c40f"
           },
-          "text": "<ul><li><span style=\"line-height: 1.85em;\"><b>代办租房</b></span><br><br><b>情景1：</b>很多业主遇到过，有朋友/同事想租自已的房子，但是总担心，怕因几十元、几百元 &nbsp; &nbsp; 的水电费，免租期谈不妥而伤和气。<br><b>         情景2：</b>很多客户遇到过，有同事的房子出租或朋友的同事有房子出租，想去租，但是也怕因为水电费交接、免租期谈不妥而伤和气。 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;不仅如此，还怕朋友、同事觉得小气等误解。<br><br><b>我们来解决这一切，公正、客观完成交易。   只需1380元/单起，，，</b><br><b>1.</b>签属专业合同; <br><b>2.</b>我们来完成水电交接、计算出各自承担费用; <br><b>3.</b>主持推进押金支付金额及时间，免租期客观建议；<br><b>4.</b>&nbsp;免费提供入住清洁、入住消毒；<br><b>5.</b>免费清洗空调挂机两台小于1.5匹（如增加一台市场价6.5折）；</li></ul><br><ul><li><b>免费赠送入住大礼包!</b></li></ul><br><ul><li><span style=\"line-height: 1.85em;\">我们还提供全新家电、家私租赁服务！</span><br>请把您的需求发送给我们。我们邮箱：<b>pinjuvip@126.com</b></li></ul><br><ul><li><b>以上服务详情请咨询品居租房运营团队！公众微信号：pinjuvip_com</b></li></ul>"
+          "text": "<ul><li><span style=\"line-height: 1.85em;\"><b>代办租房</b></span><br><br><b>情景1：</b>很多业主遇到过，有朋友/同事想租自已的房子，但是总担心，怕因几十元、几百元 &nbsp; &nbsp; 的水电费，免租期谈不妥而伤和气。<br><b>         情景2：</b>很多客户遇到过，有同事的房子出租或朋友的同事有房子出租，想去租，但是也怕因为水电费交接、免租期谈不妥而伤和气。 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;不仅如此，还怕朋友、同事觉得小气等误解。<br><br><b>我们来解决这一切，公正、客观完成交易。   只需690元/<i>单方起</i>，，，</b><br><b>1.</b>签属专业合同; <br><b>2.</b>我们来完成水电交接、计算出各自承担费用; <br><b>3.</b>主持推进押金支付金额及时间，免租期客观建议；<br><b>4.</b>&nbsp;免费提供入住清洁、入住消毒；<br><b>5.</b>免费清洗空调挂机两台小于1.5匹（如增加一台市场价6.5折）；</li></ul><br><ul><li><b>免费赠送入住大礼包!</b></li></ul><br><ul><li><span style=\"line-height: 1.85em;\">我们还提供全新家电、家私租赁服务！</span><br>请把您的需求发送给我们。我们邮箱：<b>pinjuvip@126.com</b></li></ul><br><ul><li><b>以上服务详情请咨询品居租房运营团队！公众微信号：pinjuvip_com</b></li></ul>"
+        },
+        {
+          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle5": "Choose from the large selection of blocks",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "progress-bar7",
+          "_styles": {
+            "path[stroke]": {
+              "stroke": "@primaryColor !important"
+            }
+          },
+          "_anchor": "progress-bar7-i",
+          "_params": {
+            "progressColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/dell/AppData/Local/Mobirise.com/Mobirise/projectData/03.jpg",
+            "bgColor": "#dddddd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#f3f0f0",
+            "columns": 3,
+            "progress1": "23",
+            "showTitles": true,
+            "showTexts": true,
+            "progress2": "22",
+            "progress3": "22",
+            "progress4": 60,
+            "progress5": 70,
+            "progress6": 80
+          },
+          "title1": "￥1380元/单",
+          "caption1": "市场价约6500元左右租金.",
+          "title2": "￥1580元/单",
+          "caption2": "市场价约7500元左右租金.",
+          "title3": "￥1880元/单",
+          "caption3": "市场价约8500元左右租金.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider."
         },
         {
           "alias": "colorm/components",
@@ -160,7 +217,7 @@
             "showSubtitle": false,
             "showDates": true
           },
-          "mainTitle": "更多情景",
+          "mainTitle": "\r\r\r\r &nbsp;更多情景",
           "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
           "date1": "1 邻居介绍了房子",
           "title1": "1. 情景",
@@ -208,17 +265,17 @@
           "_name": "call4",
           "_anchor": "call4-f",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/09.jpg",
-            "bgColor": "#c0392b",
-            "bgColorRadio": false,
+            "bgColor": "#dddddd",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#bdc3c7",
@@ -248,7 +305,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
-            "bgColor": "#ecf0f1",
+            "bgColor": "#dddddd",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
