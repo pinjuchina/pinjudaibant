@@ -105,7 +105,7 @@
             "showMeta": true
           },
           "title": "品居服务季 为您所需",
-          "meta": "2017年5、6<b>月份增值服务&nbsp;</b>"
+          "meta": "2017年6、7<b>月份增值服务&nbsp;</b>"
         },
         {
           "alias": "colorm/components",
@@ -313,7 +313,7 @@
             "showSubtitle": false,
             "showTitle": true,
             "showText": false,
-            "countdown": "2017/06/30"
+            "countdown": "2017/07/30"
           },
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "title": "服务结束倒计时",
@@ -380,7 +380,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "2017 &nbsp;<font color=\"#000000\">品居租房 &nbsp;&nbsp;</font>品质居家"
+          "text": "www.pinjuvip.com &nbsp;<font color=\"#000000\">品居租房 &nbsp;&nbsp;</font>品质居家 &nbsp; &nbsp; info@pinju.site"
         }
       ]
     }
