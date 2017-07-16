@@ -105,7 +105,7 @@
             "showMeta": true
           },
           "title": "品居服务季 为您所需",
-          "meta": "2017年6、7<b>月份增值服务&nbsp;</b>"
+          "meta": "2017年8、9<b>月份增值服务&nbsp;</b>"
         },
         {
           "alias": "colorm/components",
@@ -125,7 +125,7 @@
             "paddingBottom": "0",
             "bgColor": "#f1c40f"
           },
-          "text": "<ul><li><span style=\"line-height: 1.85em;\"><b>代办租房</b></span><br><br><b>情景1：</b>很多业主遇到过，有朋友/同事想租自已的房子，但是总担心，怕因几十元、几百元 &nbsp; &nbsp; 的水电费，免租期谈不妥而伤和气。<br><b>         情景2：</b>很多客户遇到过，有同事的房子出租或朋友的同事有房子出租，想去租，但是也怕因为水电费交接、免租期谈不妥而伤和气。 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><b>我们来解决这一切，公正、客观完成交易。   只需690元/<i>单方起</i>，，，</b><br><b>1.</b>签属专业合同,家电家私清单; <br><b>2.</b>我们来完成水电交接、计算出各自承担费用; <br><b>3.</b>主持推进押金支付金额及时间，免租期客观建议；<br><b>4.</b>&nbsp;免费提供入住清洁、入住消毒；<br><b>5.</b>免费清洗空调挂机两台小于1.5匹（如增加一台市场价6.5折）；</li></ul><br><ul><li><b>免费赠送入住大礼包!</b></li></ul><br><ul><li><span style=\"line-height: 1.85em;\"><b>我们还提供全新家电、家私租赁服务！</b></span><br>请把您的需求发送给我们。咨询客服微信号：<b>pinjuvip &nbsp;&nbsp;</b></li></ul><br><ul><li><b>以上服务详情请查看品居租房公众微信号：pinjuvip_com</b></li></ul>"
+          "text": "<ul><li><span style=\"line-height: 1.85em;\"><b>代办租房</b></span><br><br><b>情景1：</b>很多业主遇到过，有朋友/同事想租自已的房子，但是总担心，怕因几十元、几百元 &nbsp; &nbsp; 的水电费，免租期谈不妥而伤和气。<br><b>         情景2：</b>很多客户遇到过，有同事的房子出租或朋友的同事有房子出租，想去租，但是也怕因为水电费交接、免租期谈不妥而伤和气。 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><b>我们来解决这一切，公正、客观完成交易。   只需690元/<i>单方起</i>，，，</b><br><b>1.</b>签属专业合同,家电家私清单; <br><b>2.</b>我们来完成水电交接、计算出各自承担费用; <br><b>3.</b>主持推进押金支付金额及时间，免租期客观建议；<br><b>4.</b>&nbsp;免费提供入住清洁、入住消毒；<br><b>5.</b>免费清洗空调挂机两台小于1匹（如增加一台市场价6.5折）；</li></ul><br><ul><li><b>免费赠送入住大礼包!</b></li></ul><br><ul><li><span style=\"line-height: 1.85em;\"><b>我们还提供全新家电、家私租赁服务！</b></span><br>请把您的需求发送给我们。咨询客服微信号：<b>pinjuvip &nbsp;&nbsp;</b></li></ul><br><ul><li><b>以上服务详情请查看品居租房公众微信号：pinjuvip_com</b></li></ul>"
         },
         {
           "subtitle1": "Bootstrap 4 has been noted",
@@ -313,7 +313,7 @@
             "showSubtitle": false,
             "showTitle": true,
             "showText": false,
-            "countdown": "2017/07/30"
+            "countdown": "2017/09/30"
           },
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "title": "服务结束倒计时",
